@@ -1,5 +1,6 @@
 import random
 
+
 def is_valid(num):
 
     #Проверяет, что num является целым числом от 1 до 100
